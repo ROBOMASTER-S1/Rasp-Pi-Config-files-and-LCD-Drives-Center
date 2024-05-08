@@ -1,4 +1,4 @@
-# Rasp-Pi-Config-Files-and-LCD-Drives-Center
+# Rasp Pi Config Files and LCD Drives Center
 Rasp Pi Config Files and LCD Drives Center
 
 This is the complete downloads center for your LCD display drivers. Keep these folders as separate
