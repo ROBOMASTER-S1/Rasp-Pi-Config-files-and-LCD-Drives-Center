@@ -12,3 +12,4 @@ Rasp Pi config files folder and LCD drivers within the documents folder or folde
 stored all your other Python programs. I keep all my Rasp pi Python programs inside folders to keep them
 neat and organized. Note: if you don't keep these two file folders inside the same place you place your
 Rasp Pi Python program files, these Python files will not be able to make your LCD display work.
+![324965239-b13ff3ca-bb7c-4aa5-b348-d0f8f7c4a1f8](https://github.com/ROBOMASTER-S1/Rasp-Pi-Config-files-and-LCD-Drives-Center/assets/34896540/ef076128-fd58-4de0-9793-1a31e6679577)
